@@ -1,7 +1,7 @@
 > [!NOTE]
 > Bu repo türk oyuncuların türkçe kullanabilmesi için LocalizeUs üzerinden forklanarak ai üzerinden türkçeye çevrilmiştir.
 
-> ayarlardan türkçeyi seçmeniz yeterlidir
+> BeplnEx ve Reactor kullanarak ayarlardan türkçeyi seçmeniz yeterlidir
 
 
 -----------------------
