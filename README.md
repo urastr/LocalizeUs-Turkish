@@ -18,7 +18,7 @@ A client-side [Among Us](https://store.steampowered.com/app/945360/Among_Us) mod
 
 # Actively Supported Languages
 
-All languages are added via our [Weblate](https://weblate.duikbo.at/projects/localize-us/) instance. If you want to contribute to the project (even if the language isn't listed here!) please let us know!
+All languages are added via our [Weblate](/) instance. If you want to contribute to the project (even if the language isn't listed here!) please let us know!
 
 |     Language     |                                                                          Overall Progress                                                                           |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
