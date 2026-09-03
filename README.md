@@ -1,35 +1,8 @@
 > [!NOTE]
-> This repo is still under active development, and is only public for contributions prior to the initial release.
+> Bu repo türk oyuncuların türkçe kullanabilmesi için LocalizeUs üzerinden forklanarak ai üzerinden türkçeye çevrilmiştir.
 
------------------------
+> ayarlardan türkçeyi seçmeniz yeterlidir
 
-<div align="center">
-  <img src="./LocalizeUs/Resources/Banner.png" alt="Localize Us!"/>
-  <p>Localize Us!</p>
-  <a href="https://store.steampowered.com/app/945360/Among_Us"> <img alt="Latest AU Version" src="https://badgen.net/static/AmongUs/2025.10.28/yellow"></a>
-  <a href="https://github.com/AU-Avengers/LocalizeUs/releases/"> <img alt="Latest Release" src="https://badgen.net/github/release/AU-Avengers/LocalizeUs?icon=github"></a>
-  <a href="https://github.com/AU-Avengers/LocalizeUs/releases"> <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/AU-Avengers/LocalizeUs/total"></a>
-</div>
-<br/>
-
-A client-side [Among Us](https://store.steampowered.com/app/945360/Among_Us) mod for adding extra languages into the game!
-
------------------------
-
-# Actively Supported Languages
-
-All languages are added via our [Weblate](/) instance. If you want to contribute to the project (even if the language isn't listed here!) please let us know!
-
-|     Language     |                                                                          Overall Progress                                                                           |
-|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  All Languages   |    <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/svg-badge.svg" alt="Translation status" /></a>    |
-|      Czech       | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/cs/svg-badge.svg" alt="Translation status" /></a>  |
-|      Greek       | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/el/svg-badge.svg" alt="Translation status" /></a>  |
-| Literary Chinese | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/lzh/svg-badge.svg" alt="Translation status" /></a> |
-|    Lithuanian    | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/lt/svg-badge.svg" alt="Translation status" /></a>  |
-|      Polish      | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/pl/svg-badge.svg" alt="Translation status" /></a>  |
-|     Swedish      | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/sv/svg-badge.svg" alt="Translation status" /></a>  |
-|     Turkish      | <a href=""> AI Translated</a>
 
 -----------------------
 
