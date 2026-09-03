@@ -29,7 +29,7 @@ All languages are added via our [Weblate](/) instance. If you want to contribute
 |    Lithuanian    | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/lt/svg-badge.svg" alt="Translation status" /></a>  |
 |      Polish      | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/pl/svg-badge.svg" alt="Translation status" /></a>  |
 |     Swedish      | <a href="https://weblate.duikbo.at/engage/localize-us/"><img src="https://weblate.duikbo.at/widget/localize-us/-/sv/svg-badge.svg" alt="Translation status" /></a>  |
-|     Turkish      | <a href="https://weblate.duikbo.at/engage/localize-us/"> AI Translated</a>
+|     Turkish      | <a href=""> AI Translated</a>
 
 -----------------------
 
